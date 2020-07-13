@@ -1,2 +1,2 @@
 # Blochchain_Technology
-This repository is about  Blochchain Technology related.
+This repository is all about Developing an Ethereum Decentralized Application.
